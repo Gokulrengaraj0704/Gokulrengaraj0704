@@ -12,4 +12,4 @@ print(dic_cand)
 
 for i in dic_cand:
     if i == max_candle:
-        print("Loose Koothi Solution", dic_cand[i])
+        print(dic_cand[i])
